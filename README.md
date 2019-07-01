@@ -5,11 +5,11 @@ This repository serves to host data, code, and figures derived from environmenta
 The .rmd file is a living document to describe the structure of the repository.
 
 + Data
-- Living Marine Resources
-- Secchi
-- Sonde/YSI
-- Shape Files (for plotting)
-- Station list "BC_STATIONS.csv"
+  - Living Marine Resources
+  - Secchi
+  - Sonde/YSI
+  - Shape Files (for plotting)
+  - Station list "BC_STATIONS.csv"
 
 + Code
 
