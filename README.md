@@ -12,6 +12,7 @@ The .rmd file is a living document to describe the structure of the repository.
   - Station list "BC_STATIONS.csv"
 
 + Code
+  - Synthesis
+  - Visualization
 
-
-+ Visualization
++ Figures
