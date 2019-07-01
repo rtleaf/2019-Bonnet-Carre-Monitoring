@@ -8,7 +8,8 @@ The .md file is a living document to describe the structure of the repository.
   - Living Marine Resources
   - Secchi
   - Sonde/YSI
-  - Shape Files (for plotting)
+  - Shape Files
+    - High resolution Gulf of Mexico .shp file
   - Station list "BC_STATIONS.csv"
 
 + Code
