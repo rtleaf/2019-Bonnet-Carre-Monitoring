@@ -1,6 +1,6 @@
 # 2019-Bonnet-Carre-Monitoring
 
-This repository serves to data products derived from environmental and biological information collected by USM researchers about the extent and impacts of freshwater in the Mississippi Sound, 2019. Data, Meta Data, and a Data and Meta Data Summary are located in a Google Drive Repository that can be accessed here:
+This repository serves to organize and describe the products derived from environmental and biological sampling performed by USM researchers about the extent and impacts of freshwater in the Mississippi Sound, 2019 associated with the opening of the Bonnet Carre spillway. Data, Meta Data, and a Data and Meta Data Summary directories are located in a Google Drive Repository that can be accessed here:
 
 https://drive.google.com/open?id=1cKUzfGNFURqCZlmyQ4ux9Hp6qERfHsKn
 
