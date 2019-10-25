@@ -14,6 +14,6 @@ The .md file is a living document to describe the structure of the repository.
   - Nutrient and Isotopes
   - Phytoplankton
   
- + Additional data product include:
+  - Additional data product include:
   - Shape Files directory includes high resolution .shp files for the region
   - Station list "BC_STATIONS.csv" contains the decimal degree locations for all fixed sampling stations
