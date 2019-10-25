@@ -6,8 +6,7 @@ https://drive.google.com/open?id=1cKUzfGNFURqCZlmyQ4ux9Hp6qERfHsKn
 
 The .md file is a living document to describe the structure of the repository.
 
-+ Data
-+ A variety of data were collected for this project including:
++ Data:
   - Living Marine Resources (Fishes and Invertebrates)
   - Secchi
   - Sonde/YSI Envrionmental Sampling
@@ -16,6 +15,5 @@ The .md file is a living document to describe the structure of the repository.
   - Phytoplankton
   
  + Additional data product include:
-  - Shape Files
-    - Cotaining high resolution .shp files for the region
-  - Station list "BC_STATIONS.csv"
+  - Shape Files directory includes high resolution .shp files for the region
+  - Station list "BC_STATIONS.csv" contains the decimal degree locations for all fixed sampling stations
