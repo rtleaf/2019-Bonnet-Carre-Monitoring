@@ -13,7 +13,11 @@ The .md file is a living document to describe the structure of the repository.
   - Vibrio and Bacterial DNA
   - Nutrient and Isotopes
   - Phytoplankton
-  
-  - Additional data product include:
   - Shape Files directory includes high resolution .shp files for the region
   - Station list "BC_STATIONS.csv" contains the decimal degree locations for all fixed sampling stations
+  
+  + Meta Data:
+  - .xlsx files that describe the structure of the data collected during the project
+  
+  + Data and Meta Data Summary:
+  - .html files that sumamrize in tables and figures the station-, spatial-, and temporal-specific patterns in the collected data. 
